@@ -1,3 +1,4 @@
 #git course
          -feature-A
-            -fix-B
+         -fix-B
+		 -feature-A
